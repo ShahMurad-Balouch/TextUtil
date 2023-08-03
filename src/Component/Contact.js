@@ -67,7 +67,7 @@ export default function Contact(props) {
 							<ul className="list-inline mb-0">
 								{/* <!-- Address --> */}
 								<li className="list-item mb-3 h6 fw-light">
-									<a href="#" className="text-white" > <i className="fas fa-fw fa-map-marker-alt me-2 mt-1"></i>Virtual University Campus (Faisal Town), 939, Block-C, Moulana Shaukat Ali Road, Lahore </a>
+									<a href="#" className="text-white"> <i className="fas fa-fw fa-map-marker-alt me-2 mt-1"></i>Virtual University Campus (Faisal Town), 939, Block-C, Moulana Shaukat Ali Road, Lahore </a>
 								</li>
 								{/*  Phone number  */}
 								<li className="list-item mb-3 h6 fw-light" >
